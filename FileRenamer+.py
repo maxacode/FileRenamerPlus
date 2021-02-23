@@ -10,7 +10,7 @@ step1 = input("Enter the original file pattern you are looking for, step 1: ")
 #step1 = "CS-01-20"
 
 #akign for step 1: file name pattern to replace with
-step2 = input("Enter the original file pattern you are looking for, step 1: ")
+step2 = input("Enter the new file pattern that will replace the original one, step 2: ")
 #step2 = "ORL-01-20"
 
 
